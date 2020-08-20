@@ -1,0 +1,8 @@
+C:\Users\Ernesto\source\repos\CommercePlatform\CommerceLibrary\bin\Debug\netstandard2.0\CommerceLibrary.deps.json
+C:\Users\Ernesto\source\repos\CommercePlatform\CommerceLibrary\bin\Debug\netstandard2.0\CommerceLibrary.dll
+C:\Users\Ernesto\source\repos\CommercePlatform\CommerceLibrary\bin\Debug\netstandard2.0\CommerceLibrary.pdb
+C:\Users\Ernesto\source\repos\CommercePlatform\CommerceLibrary\obj\Debug\netstandard2.0\CommerceLibrary.AssemblyInfoInputs.cache
+C:\Users\Ernesto\source\repos\CommercePlatform\CommerceLibrary\obj\Debug\netstandard2.0\CommerceLibrary.AssemblyInfo.cs
+C:\Users\Ernesto\source\repos\CommercePlatform\CommerceLibrary\obj\Debug\netstandard2.0\CommerceLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Ernesto\source\repos\CommercePlatform\CommerceLibrary\obj\Debug\netstandard2.0\CommerceLibrary.dll
+C:\Users\Ernesto\source\repos\CommercePlatform\CommerceLibrary\obj\Debug\netstandard2.0\CommerceLibrary.pdb

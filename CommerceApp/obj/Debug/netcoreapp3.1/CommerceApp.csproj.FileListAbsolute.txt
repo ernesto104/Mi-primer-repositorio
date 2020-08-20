@@ -1,0 +1,16 @@
+C:\Users\Ernesto\source\repos\CommercePlatform\CommerceApp\obj\Debug\netcoreapp3.1\CommerceApp.csprojAssemblyReference.cache
+C:\Users\Ernesto\source\repos\CommercePlatform\CommerceApp\obj\Debug\netcoreapp3.1\CommerceApp.AssemblyInfoInputs.cache
+C:\Users\Ernesto\source\repos\CommercePlatform\CommerceApp\obj\Debug\netcoreapp3.1\CommerceApp.AssemblyInfo.cs
+C:\Users\Ernesto\source\repos\CommercePlatform\CommerceApp\obj\Debug\netcoreapp3.1\CommerceApp.csproj.CoreCompileInputs.cache
+C:\Users\Ernesto\source\repos\CommercePlatform\CommerceApp\bin\Debug\netcoreapp3.1\CommerceApp.exe
+C:\Users\Ernesto\source\repos\CommercePlatform\CommerceApp\bin\Debug\netcoreapp3.1\CommerceApp.deps.json
+C:\Users\Ernesto\source\repos\CommercePlatform\CommerceApp\bin\Debug\netcoreapp3.1\CommerceApp.runtimeconfig.json
+C:\Users\Ernesto\source\repos\CommercePlatform\CommerceApp\bin\Debug\netcoreapp3.1\CommerceApp.runtimeconfig.dev.json
+C:\Users\Ernesto\source\repos\CommercePlatform\CommerceApp\bin\Debug\netcoreapp3.1\CommerceApp.dll
+C:\Users\Ernesto\source\repos\CommercePlatform\CommerceApp\bin\Debug\netcoreapp3.1\CommerceApp.pdb
+C:\Users\Ernesto\source\repos\CommercePlatform\CommerceApp\bin\Debug\netcoreapp3.1\CommerceLibrary.dll
+C:\Users\Ernesto\source\repos\CommercePlatform\CommerceApp\bin\Debug\netcoreapp3.1\CommerceLibrary.pdb
+C:\Users\Ernesto\source\repos\CommercePlatform\CommerceApp\obj\Debug\netcoreapp3.1\CommerceApp.csproj.CopyComplete
+C:\Users\Ernesto\source\repos\CommercePlatform\CommerceApp\obj\Debug\netcoreapp3.1\CommerceApp.dll
+C:\Users\Ernesto\source\repos\CommercePlatform\CommerceApp\obj\Debug\netcoreapp3.1\CommerceApp.pdb
+C:\Users\Ernesto\source\repos\CommercePlatform\CommerceApp\obj\Debug\netcoreapp3.1\CommerceApp.genruntimeconfig.cache

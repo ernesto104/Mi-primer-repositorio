@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "CommerceApp/1.0.0": {
+        "dependencies": {
+          "CommerceLibrary": "1.0.0"
+        },
+        "runtime": {
+          "CommerceApp.dll": {}
+        }
+      },
+      "CommerceLibrary/1.0.0": {
+        "runtime": {
+          "CommerceLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CommerceApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CommerceLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "CommerceLibrary/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "dependencies": {
+          "SharedLibrary": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/CommerceLibrary.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CommerceLibrary.dll": {}
+        }
+      },
+      "SharedLibrary/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/SharedLibrary.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/SharedLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CommerceLibrary/1.0.0": {
+      "type": "project",
+      "path": "../CommerceLibrary/CommerceLibrary.csproj",
+      "msbuildProject": "../CommerceLibrary/CommerceLibrary.csproj"
+    },
+    "SharedLibrary/1.0.0": {
+      "type": "project",
+      "path": "../SharedLibrary/SharedLibrary.csproj",
+      "msbuildProject": "../SharedLibrary/SharedLibrary.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "CommerceLibrary >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Ernesto\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Ernesto\\Desktop\\Cursos actuales\\Aplicaciones Web\\Semana 1(Intro)\\Sesion 2_Intro a C#\\CommercePlatform\\CommerceApp\\CommerceApp.csproj",
+      "projectName": "CommerceApp",
+      "projectPath": "C:\\Users\\Ernesto\\Desktop\\Cursos actuales\\Aplicaciones Web\\Semana 1(Intro)\\Sesion 2_Intro a C#\\CommercePlatform\\CommerceApp\\CommerceApp.csproj",
+      "packagesPath": "C:\\Users\\Ernesto\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Ernesto\\Desktop\\Cursos actuales\\Aplicaciones Web\\Semana 1(Intro)\\Sesion 2_Intro a C#\\CommercePlatform\\CommerceApp\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\Ernesto\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "projectReferences": {
+            "C:\\Users\\Ernesto\\Desktop\\Cursos actuales\\Aplicaciones Web\\Semana 1(Intro)\\Sesion 2_Intro a C#\\CommercePlatform\\CommerceLibrary\\CommerceLibrary.csproj": {
+              "projectPath": "C:\\Users\\Ernesto\\Desktop\\Cursos actuales\\Aplicaciones Web\\Semana 1(Intro)\\Sesion 2_Intro a C#\\CommercePlatform\\CommerceLibrary\\CommerceLibrary.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

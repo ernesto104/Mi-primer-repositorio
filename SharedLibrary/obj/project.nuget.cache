@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "+Ozqm3s4PmaWkE6+QwNKckvtOO+jcAjnOtkqbTi31OHjlSOeQ3VF2uVttT/B6HkmfWP8Me4zWi2EVCg1fr1aiw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Ernesto\\Desktop\\Cursos actuales\\Aplicaciones Web\\Semana 1(Intro)\\Sesion 2_Intro a C#\\CommercePlatform\\SharedLibrary\\SharedLibrary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
