@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "0JS2E+4iDjEdnG66a2pPEhjzU7nqTZKZcr6R0Brek4p4wi6YXtYWQhe+BqSDNwO2n7zIB9K66i9fux0qZE/vEA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Ernesto\\Desktop\\Cursos actuales\\Aplicaciones Web\\Semana 1(Intro)\\Sesion 2_Intro a C#\\CommercePlatform\\Logistics\\Logistics.csproj",
+  "expectedPackageFiles": [
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

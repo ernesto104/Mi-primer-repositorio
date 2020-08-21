@@ -1,0 +1,12 @@
+C:\Users\Ernesto\Desktop\Cursos actuales\Aplicaciones Web\Semana 1(Intro)\Sesion 2_Intro a C#\CommercePlatform\DeliveryLibrary\bin\Debug\netstandard2.0\DeliveryLibrary.deps.json
+C:\Users\Ernesto\Desktop\Cursos actuales\Aplicaciones Web\Semana 1(Intro)\Sesion 2_Intro a C#\CommercePlatform\DeliveryLibrary\bin\Debug\netstandard2.0\DeliveryLibrary.dll
+C:\Users\Ernesto\Desktop\Cursos actuales\Aplicaciones Web\Semana 1(Intro)\Sesion 2_Intro a C#\CommercePlatform\DeliveryLibrary\bin\Debug\netstandard2.0\DeliveryLibrary.pdb
+C:\Users\Ernesto\Desktop\Cursos actuales\Aplicaciones Web\Semana 1(Intro)\Sesion 2_Intro a C#\CommercePlatform\DeliveryLibrary\bin\Debug\netstandard2.0\SharedLibrary.dll
+C:\Users\Ernesto\Desktop\Cursos actuales\Aplicaciones Web\Semana 1(Intro)\Sesion 2_Intro a C#\CommercePlatform\DeliveryLibrary\bin\Debug\netstandard2.0\SharedLibrary.pdb
+C:\Users\Ernesto\Desktop\Cursos actuales\Aplicaciones Web\Semana 1(Intro)\Sesion 2_Intro a C#\CommercePlatform\DeliveryLibrary\obj\Debug\netstandard2.0\DeliveryLibrary.csprojAssemblyReference.cache
+C:\Users\Ernesto\Desktop\Cursos actuales\Aplicaciones Web\Semana 1(Intro)\Sesion 2_Intro a C#\CommercePlatform\DeliveryLibrary\obj\Debug\netstandard2.0\DeliveryLibrary.AssemblyInfoInputs.cache
+C:\Users\Ernesto\Desktop\Cursos actuales\Aplicaciones Web\Semana 1(Intro)\Sesion 2_Intro a C#\CommercePlatform\DeliveryLibrary\obj\Debug\netstandard2.0\DeliveryLibrary.AssemblyInfo.cs
+C:\Users\Ernesto\Desktop\Cursos actuales\Aplicaciones Web\Semana 1(Intro)\Sesion 2_Intro a C#\CommercePlatform\DeliveryLibrary\obj\Debug\netstandard2.0\DeliveryLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Ernesto\Desktop\Cursos actuales\Aplicaciones Web\Semana 1(Intro)\Sesion 2_Intro a C#\CommercePlatform\DeliveryLibrary\obj\Debug\netstandard2.0\DeliveryLibrary.csproj.CopyComplete
+C:\Users\Ernesto\Desktop\Cursos actuales\Aplicaciones Web\Semana 1(Intro)\Sesion 2_Intro a C#\CommercePlatform\DeliveryLibrary\obj\Debug\netstandard2.0\DeliveryLibrary.dll
+C:\Users\Ernesto\Desktop\Cursos actuales\Aplicaciones Web\Semana 1(Intro)\Sesion 2_Intro a C#\CommercePlatform\DeliveryLibrary\obj\Debug\netstandard2.0\DeliveryLibrary.pdb
